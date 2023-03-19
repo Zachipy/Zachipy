@@ -4,7 +4,6 @@
 <br>
 
 - Not working on a project right now
-- Currently learning Web Development by myself
 - Personal website [link](https://zachi.tk)
 
 <br><br>
